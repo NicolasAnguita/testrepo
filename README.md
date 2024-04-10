@@ -1,3 +1,3 @@
 # testrepo
 Test funcionamiento GIT
-* este es una archivo markdown en el repositorio *
+** este es una archivo markdown en el repositorio **
